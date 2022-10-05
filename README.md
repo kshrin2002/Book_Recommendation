@@ -1,3 +1,5 @@
-# Book_Recommendation
-Program that detects all the similar books in a directory using the Jaccard similarity coefficient. 
-Used Tkinter for developing the graphical user interface
+Lets the user choose the directory where the text documents are located. (Accesses all the files in that directory with ".txt" extension.)
+For each document, applies the Jaccard Similarity measure to determine which of the other documents has the greatest similarity to the one being considered.
+
+![image](https://user-images.githubusercontent.com/98567631/193964413-0e7c21fe-373e-4852-83c7-3397121b9a00.png)
+Presents the results in tabular form using tkinter’s grid layout.
