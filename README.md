@@ -5,3 +5,9 @@ For each document, applies the Jaccard Similarity measure to determine which of 
 
 
 Presents the results in tabular form using tkinter’s grid layout.
+
+
+
+    Download the Book_Recommendation repository.
+    Compile and run the Assignment3.py file.
+    Choose the folder where all the files are located which needs to compared for recommendation. (Book folder has some file for demo run.)
